@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "p-1001",
+    "sku": "SON-CON-1001",
+    "name": "PlayStation 5 Slim Console (Disc Edition)",
+    "brand": "Sony",
+    "category": "consoles",
+    "platform": [
+      "PS5"
+    ],
+    "price": 27990,
+    "salePrice": 27990,
+    "currency": "PHP",
+    "stock": 3,
+    "rating": 4.2,
+    "reviewCount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "PlayStation 5 Slim Console (Disc Edition) brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "1TB SSD",
+      "Resolution": "Up to 4K 120Hz",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1002",
+    "sku": "MIC-CON-1002",
+    "name": "Xbox Series X 1TB Console",
+    "brand": "Microsoft",
+    "category": "consoles",
+    "platform": [
+      "Xbox"
+    ],
+    "price": 31990,
+    "salePrice": 31990,
+    "currency": "PHP",
+    "stock": 6,
+    "rating": 4.9,
+    "reviewCount": 53,
+    "images": [
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Xbox Series X 1TB Console brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "1TB SSD",
+      "Resolution": "4K UHD",
+      "Brand": "Microsoft"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1003",
+    "sku": "NIN-CON-1003",
+    "name": "Nintendo Switch OLED Model",
+    "brand": "Nintendo",
+    "category": "consoles",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 16990,
+    "salePrice": 16990,
+    "currency": "PHP",
+    "stock": 7,
+    "rating": 4.7,
+    "reviewCount": 84,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Nintendo Switch OLED Model brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "64GB",
+      "Resolution": "7-inch OLED",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1004",
+    "sku": "VAL-CON-1004",
+    "name": "Steam Deck OLED 512GB",
+    "brand": "Valve",
+    "category": "consoles",
+    "platform": [
+      "PC"
+    ],
+    "price": 32990,
+    "salePrice": 32990,
+    "currency": "PHP",
+    "stock": 8,
+    "rating": 4.5,
+    "reviewCount": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Steam Deck OLED 512GB brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "512GB NVMe SSD",
+      "Resolution": "1280 × 800 HDR",
+      "Brand": "Valve"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1005",
+    "sku": "NIN-CON-1005",
+    "name": "Nintendo Switch Lite Coral",
+    "brand": "Nintendo",
+    "category": "consoles",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 10990,
+    "salePrice": 10990,
+    "currency": "PHP",
+    "stock": 9,
+    "rating": 4.3,
+    "reviewCount": 146,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Nintendo Switch Lite Coral brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "32GB",
+      "Resolution": "720p handheld",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1006",
+    "sku": "MIC-CON-1006",
+    "name": "Xbox Series S 1TB Robot White",
+    "brand": "Microsoft",
+    "category": "consoles",
+    "platform": [
+      "Xbox"
+    ],
+    "price": 22990,
+    "salePrice": 22990,
+    "currency": "PHP",
+    "stock": 10,
+    "rating": 5,
+    "reviewCount": 177,
+    "images": [
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Xbox Series S 1TB Robot White brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Storage": "1TB SSD",
+      "Resolution": "1440p gaming",
+      "Brand": "Microsoft"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1007",
+    "sku": "SON-ACC-1007",
+    "name": "DualSense Wireless Controller",
+    "brand": "Sony",
+    "category": "accessories",
+    "platform": [
+      "PS5"
+    ],
+    "price": 3990,
+    "salePrice": 3990,
+    "currency": "PHP",
+    "stock": 11,
+    "rating": 4.8,
+    "reviewCount": 208,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "DualSense Wireless Controller brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Haptic feedback",
+      "Details": "USB-C charging",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1008",
+    "sku": "MIC-ACC-1008",
+    "name": "Xbox Wireless Controller Carbon Black",
+    "brand": "Microsoft",
+    "category": "accessories",
+    "platform": [
+      "Xbox"
+    ],
+    "price": 3290,
+    "salePrice": 3290,
+    "currency": "PHP",
+    "stock": 12,
+    "rating": 4.6,
+    "reviewCount": 239,
+    "images": [
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Xbox Wireless Controller Carbon Black brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "40-hour battery",
+      "Details": "Bluetooth",
+      "Brand": "Microsoft"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "p-1009",
+    "sku": "NIN-GAM-1009",
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "brand": "Nintendo",
+    "category": "games",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 13,
+    "rating": 4.4,
+    "reviewCount": 270,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "The Legend of Zelda: Echoes of Wisdom brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Adventure",
+      "Details": "Nintendo Switch",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1010",
+    "sku": "NIN-GAM-1010",
+    "name": "Super Mario Party Jamboree",
+    "brand": "Nintendo",
+    "category": "games",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 14,
+    "rating": 4.2,
+    "reviewCount": 301,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Super Mario Party Jamboree brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Party",
+      "Details": "Nintendo Switch",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1011",
+    "sku": "NIN-GAM-1011",
+    "name": "Pokémon Legends: Z-A",
+    "brand": "Nintendo",
+    "category": "games",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 15,
+    "rating": 4.9,
+    "reviewCount": 52,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Pokémon Legends: Z-A brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Adventure RPG",
+      "Details": "Nintendo Switch",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1012",
+    "sku": "NIN-GAM-1012",
+    "name": "Mario Kart 8 Deluxe",
+    "brand": "Nintendo",
+    "category": "games",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 2490,
+    "salePrice": 2490,
+    "currency": "PHP",
+    "stock": 3,
+    "rating": 4.7,
+    "reviewCount": 83,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Mario Kart 8 Deluxe brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Racing",
+      "Details": "Nintendo Switch",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1013",
+    "sku": "SON-GAM-1013",
+    "name": "Astro Bot",
+    "brand": "Sony",
+    "category": "games",
+    "platform": [
+      "PS5"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 17,
+    "rating": 4.5,
+    "reviewCount": 114,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Astro Bot brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Platformer",
+      "Details": "PlayStation 5",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1014",
+    "sku": "SON-GAM-1014",
+    "name": "Marvel’s Spider-Man 2",
+    "brand": "Sony",
+    "category": "games",
+    "platform": [
+      "PS5"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 0,
+    "rating": 4.3,
+    "reviewCount": 145,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Marvel’s Spider-Man 2 brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Action adventure",
+      "Details": "PlayStation 5",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1015",
+    "sku": "SON-GAM-1015",
+    "name": "God of War Ragnarök",
+    "brand": "Sony",
+    "category": "games",
+    "platform": [
+      "PS5"
+    ],
+    "price": 2490,
+    "salePrice": 2490,
+    "currency": "PHP",
+    "stock": 19,
+    "rating": 5,
+    "reviewCount": 176,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "God of War Ragnarök brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Action adventure",
+      "Details": "PlayStation 5",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1016",
+    "sku": "MIC-GAM-1016",
+    "name": "Forza Horizon 5",
+    "brand": "Microsoft",
+    "category": "games",
+    "platform": [
+      "Xbox",
+      "PC"
+    ],
+    "price": 1990,
+    "salePrice": 1990,
+    "currency": "PHP",
+    "stock": 20,
+    "rating": 4.8,
+    "reviewCount": 207,
+    "images": [
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Forza Horizon 5 brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Racing",
+      "Details": "Xbox Series X|S",
+      "Brand": "Microsoft"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1017",
+    "sku": "ACT-GAM-1017",
+    "name": "Call of Duty: Black Ops 6",
+    "brand": "Activision",
+    "category": "games",
+    "platform": [
+      "PS5",
+      "Xbox",
+      "PC"
+    ],
+    "price": 3490,
+    "salePrice": 3490,
+    "currency": "PHP",
+    "stock": 21,
+    "rating": 4.6,
+    "reviewCount": 238,
+    "images": [
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Call of Duty: Black Ops 6 brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "First-person shooter",
+      "Details": "PS5 / Xbox / PC",
+      "Brand": "Activision"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1018",
+    "sku": "BAN-GAM-1018",
+    "name": "Elden Ring: Shadow of the Erdtree Edition",
+    "brand": "Bandai Namco",
+    "category": "games",
+    "platform": [
+      "PS5",
+      "Xbox",
+      "PC"
+    ],
+    "price": 3290,
+    "salePrice": 3290,
+    "currency": "PHP",
+    "stock": 22,
+    "rating": 4.4,
+    "reviewCount": 269,
+    "images": [
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Elden Ring: Shadow of the Erdtree Edition brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Action RPG",
+      "Details": "PS5 / Xbox / PC",
+      "Brand": "Bandai Namco"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1019",
+    "sku": "LOG-PC--1019",
+    "name": "Logitech G Pro X TKL Mechanical Keyboard",
+    "brand": "Logitech",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 8990,
+    "salePrice": 8990,
+    "currency": "PHP",
+    "stock": 23,
+    "rating": 4.2,
+    "reviewCount": 300,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Logitech G Pro X TKL Mechanical Keyboard brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "GX Brown switches",
+      "Details": "RGB LIGHTSYNC",
+      "Brand": "Logitech"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1020",
+    "sku": "RAZ-PC--1020",
+    "name": "Razer BlackWidow V4 Pro",
+    "brand": "Razer",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 12990,
+    "salePrice": 12990,
+    "currency": "PHP",
+    "stock": 24,
+    "rating": 4.9,
+    "reviewCount": 51,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Razer BlackWidow V4 Pro brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Green mechanical switches",
+      "Details": "Razer Chroma RGB",
+      "Brand": "Razer"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1021",
+    "sku": "ASU-PC--1021",
+    "name": "ASUS ROG Strix G16 Gaming Monitor",
+    "brand": "ASUS",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 18990,
+    "salePrice": 18990,
+    "currency": "PHP",
+    "stock": 25,
+    "rating": 4.7,
+    "reviewCount": 82,
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "ASUS ROG Strix G16 Gaming Monitor brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "165Hz IPS",
+      "Details": "1920 × 1080",
+      "Brand": "ASUS"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1022",
+    "sku": "LOG-PC--1022",
+    "name": "Logitech G502 X Gaming Mouse",
+    "brand": "Logitech",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 3990,
+    "salePrice": 3990,
+    "currency": "PHP",
+    "stock": 26,
+    "rating": 4.5,
+    "reviewCount": 113,
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Logitech G502 X Gaming Mouse brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "HERO 25K sensor",
+      "Details": "Wired",
+      "Brand": "Logitech"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1023",
+    "sku": "RAZ-PC--1023",
+    "name": "Razer DeathAdder V3 Pro",
+    "brand": "Razer",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 7990,
+    "salePrice": 7990,
+    "currency": "PHP",
+    "stock": 3,
+    "rating": 4.3,
+    "reviewCount": 144,
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Razer DeathAdder V3 Pro brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Focus Pro 30K sensor",
+      "Details": "Wireless",
+      "Brand": "Razer"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1024",
+    "sku": "HYP-PC--1024",
+    "name": "HyperX Cloud III Wireless Headset",
+    "brand": "HyperX",
+    "category": "pc-gaming",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "price": 6990,
+    "salePrice": 6990,
+    "currency": "PHP",
+    "stock": 28,
+    "rating": 5,
+    "reviewCount": 175,
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "HyperX Cloud III Wireless Headset brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "120-hour battery",
+      "Details": "DTS Headphone:X",
+      "Brand": "HyperX"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1025",
+    "sku": "LOG-PC--1025",
+    "name": "Logitech G733 LIGHTSPEED Headset",
+    "brand": "Logitech",
+    "category": "pc-gaming",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "price": 6990,
+    "salePrice": 6990,
+    "currency": "PHP",
+    "stock": 29,
+    "rating": 4.8,
+    "reviewCount": 206,
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Logitech G733 LIGHTSPEED Headset brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "29-hour battery",
+      "Details": "LIGHTSYNC RGB",
+      "Brand": "Logitech"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1026",
+    "sku": "STE-PC--1026",
+    "name": "SteelSeries QcK XXL Mousepad",
+    "brand": "SteelSeries",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 1490,
+    "salePrice": 1490,
+    "currency": "PHP",
+    "stock": 30,
+    "rating": 4.6,
+    "reviewCount": 237,
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "SteelSeries QcK XXL Mousepad brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "900 × 400 mm",
+      "Details": "Micro-woven cloth",
+      "Brand": "SteelSeries"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1027",
+    "sku": "KEY-PC--1027",
+    "name": "Keychron K2 Pro Wireless Keyboard",
+    "brand": "Keychron",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 5690,
+    "salePrice": 5690,
+    "currency": "PHP",
+    "stock": 0,
+    "rating": 4.4,
+    "reviewCount": 268,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Keychron K2 Pro Wireless Keyboard brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Hot-swappable",
+      "Details": "Bluetooth 5.1",
+      "Brand": "Keychron"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1028",
+    "sku": "RAZ-PC--1028",
+    "name": "Razer Kraken Kitty V2",
+    "brand": "Razer",
+    "category": "pc-gaming",
+    "platform": [
+      "PC"
+    ],
+    "price": 6990,
+    "salePrice": 6990,
+    "currency": "PHP",
+    "stock": 32,
+    "rating": 4.2,
+    "reviewCount": 299,
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Razer Kraken Kitty V2 brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "TriForce 40mm drivers",
+      "Details": "Kitty ear lighting",
+      "Brand": "Razer"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1029",
+    "sku": "SON-GAD-1029",
+    "name": "PlayStation Portal Remote Player",
+    "brand": "Sony",
+    "category": "gadgets",
+    "platform": [
+      "PS5"
+    ],
+    "price": 12990,
+    "salePrice": 12990,
+    "currency": "PHP",
+    "stock": 33,
+    "rating": 4.9,
+    "reviewCount": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "PlayStation Portal Remote Player brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "8-inch LCD",
+      "Details": "1080p at 60fps",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1030",
+    "sku": "JBL-GAD-1030",
+    "name": "JBL Tune 770NC Wireless Headphones",
+    "brand": "JBL",
+    "category": "gadgets",
+    "platform": [
+      "Universal"
+    ],
+    "price": 3990,
+    "salePrice": 3990,
+    "currency": "PHP",
+    "stock": 34,
+    "rating": 4.7,
+    "reviewCount": 81,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "JBL Tune 770NC Wireless Headphones brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "70-hour battery",
+      "Details": "Adaptive Noise Cancelling",
+      "Brand": "JBL"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1031",
+    "sku": "ANK-GAD-1031",
+    "name": "Anker 20,000mAh Power Bank",
+    "brand": "Anker",
+    "category": "gadgets",
+    "platform": [
+      "Universal"
+    ],
+    "price": 1990,
+    "salePrice": 1990,
+    "currency": "PHP",
+    "stock": 35,
+    "rating": 4.5,
+    "reviewCount": 112,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Anker 20,000mAh Power Bank brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "20,000mAh",
+      "Details": "22.5W fast charge",
+      "Brand": "Anker"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1032",
+    "sku": "NIN-ACC-1032",
+    "name": "Nintendo Switch Carrying Case",
+    "brand": "Nintendo",
+    "category": "accessories",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 1290,
+    "salePrice": 1290,
+    "currency": "PHP",
+    "stock": 36,
+    "rating": 4.3,
+    "reviewCount": 143,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Nintendo Switch Carrying Case brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Fits Switch OLED",
+      "Details": "Hard shell",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1033",
+    "sku": "SON-ACC-1033",
+    "name": "DualSense Charging Station",
+    "brand": "Sony",
+    "category": "accessories",
+    "platform": [
+      "PS5"
+    ],
+    "price": 1690,
+    "salePrice": 1690,
+    "currency": "PHP",
+    "stock": 37,
+    "rating": 5,
+    "reviewCount": 174,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "DualSense Charging Station brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Dual controller charging",
+      "Details": "Click-in design",
+      "Brand": "Sony"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1034",
+    "sku": "SAN-ACC-1034",
+    "name": "SanDisk 256GB microSD Express Card",
+    "brand": "SanDisk",
+    "category": "accessories",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 2490,
+    "salePrice": 2490,
+    "currency": "PHP",
+    "stock": 3,
+    "rating": 4.8,
+    "reviewCount": 205,
+    "images": [
+      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "SanDisk 256GB microSD Express Card brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "256GB",
+      "Details": "Up to 880 MB/s",
+      "Brand": "SanDisk"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1035",
+    "sku": "RAZ-ACC-1035",
+    "name": "Razer Kishi V2 Mobile Controller",
+    "brand": "Razer",
+    "category": "accessories",
+    "platform": [
+      "Universal"
+    ],
+    "price": 4990,
+    "salePrice": 4990,
+    "currency": "PHP",
+    "stock": 39,
+    "rating": 4.6,
+    "reviewCount": 236,
+    "images": [
+      "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Razer Kishi V2 Mobile Controller brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "USB-C",
+      "Details": "Mobile gaming",
+      "Brand": "Razer"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1036",
+    "sku": "NIN-COL-1036",
+    "name": "Amiibo: Link (Tears of the Kingdom)",
+    "brand": "Nintendo",
+    "category": "collectibles",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "price": 1990,
+    "salePrice": 1990,
+    "currency": "PHP",
+    "stock": 40,
+    "rating": 4.4,
+    "reviewCount": 267,
+    "images": [
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Amiibo: Link (Tears of the Kingdom) brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "Official amiibo",
+      "Details": "Collector figure",
+      "Brand": "Nintendo"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1037",
+    "sku": "BAN-COL-1037",
+    "name": "Gundam RX-78-2 Entry Grade Figure",
+    "brand": "Bandai",
+    "category": "collectibles",
+    "platform": [
+      "Universal"
+    ],
+    "price": 890,
+    "salePrice": 890,
+    "currency": "PHP",
+    "stock": 5,
+    "rating": 4.2,
+    "reviewCount": 298,
+    "images": [
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Gundam RX-78-2 Entry Grade Figure brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "1/144 scale",
+      "Details": "Snap-fit model kit",
+      "Brand": "Bandai"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1038",
+    "sku": "SEG-COL-1038",
+    "name": "Sonic the Hedgehog Tails Plush",
+    "brand": "Sega",
+    "category": "collectibles",
+    "platform": [
+      "Universal"
+    ],
+    "price": 1490,
+    "salePrice": 1490,
+    "currency": "PHP",
+    "stock": 6,
+    "rating": 4.9,
+    "reviewCount": 49,
+    "images": [
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Sonic the Hedgehog Tails Plush brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "25 cm",
+      "Details": "Official plush",
+      "Brand": "Sega"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1039",
+    "sku": "POK-COL-1039",
+    "name": "Pokémon Pikachu Sitting Cuties Plush",
+    "brand": "Pokémon",
+    "category": "collectibles",
+    "platform": [
+      "Universal"
+    ],
+    "price": 1290,
+    "salePrice": 1290,
+    "currency": "PHP",
+    "stock": 7,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "images": [
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Pokémon Pikachu Sitting Cuties Plush brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "15 cm",
+      "Details": "Official plush",
+      "Brand": "Pokémon"
+    },
+    "tags": [
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1040",
+    "sku": "RAZ-ACC-1040",
+    "name": "Razer Kraken V3 X USB Gaming Headset",
+    "brand": "Razer",
+    "category": "accessories",
+    "platform": [
+      "PC"
+    ],
+    "price": 2990,
+    "salePrice": 2990,
+    "currency": "PHP",
+    "stock": 0,
+    "rating": 4.5,
+    "reviewCount": 111,
+    "images": [
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Razer Kraken V3 X USB Gaming Headset brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "7.1 surround sound",
+      "Details": "USB wired",
+      "Brand": "Razer"
+    },
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "p-1041",
+    "sku": "LOG-GAD-1041",
+    "name": "Logitech C920s HD Pro Webcam",
+    "brand": "Logitech",
+    "category": "gadgets",
+    "platform": [
+      "PC"
+    ],
+    "price": 3990,
+    "salePrice": 3990,
+    "currency": "PHP",
+    "stock": 9,
+    "rating": 4.3,
+    "reviewCount": 142,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=70"
+    ],
+    "description": "Logitech C920s HD Pro Webcam brings dependable quality and a brilliant play experience. Shop with confidence and get ready for your next great session.",
+    "specs": {
+      "Feature": "1080p at 30fps",
+      "Details": "Privacy shutter",
+      "Brand": "Logitech"
+    },
+    "tags": [
+      "best-seller",
+      "sale"
+    ],
+    "isFeatured": false
+  }
+]

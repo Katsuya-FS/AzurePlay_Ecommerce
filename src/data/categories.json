@@ -1,0 +1,8 @@
+[
+  {"id":"consoles","name":"Consoles","icon":"🎮","description":"Find your next favorite way to play","count":8},
+  {"id":"games","name":"Games","icon":"🕹️","description":"Big adventures, small prices","count":10},
+  {"id":"pc-gaming","name":"PC Gaming","icon":"⌨️","description":"Build your ultimate setup","count":9},
+  {"id":"accessories","name":"Accessories","icon":"🎧","description":"Level up your loadout","count":6},
+  {"id":"gadgets","name":"Gadgets","icon":"✨","description":"A little tech magic","count":4},
+  {"id":"collectibles","name":"Collectibles","icon":"🧸","description":"Bring your fandom home","count":4}
+]
