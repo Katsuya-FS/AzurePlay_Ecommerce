@@ -12,6 +12,10 @@ npm run dev
 
 Create a production bundle with `npm run build` and preview it with `npm run preview`.
 
+## GitHub Pages
+
+The included `.github/workflows/pages.yml` workflow builds and deploys the site when changes are pushed to `main` or `master`. In the repository, open **Settings → Pages** and set the build and deployment source to **GitHub Actions**. The workflow detects the repository name and configures the correct project-page path; user and organization pages use the domain root.
+
 ## Project map
 
 - `src/App.tsx` contains the shared shell, routes and storefront pages.
